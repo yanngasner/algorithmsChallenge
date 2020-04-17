@@ -13,7 +13,7 @@
             "skipFiles": [
                 "<node_internals>/**"
             ],
-            "program": "${workspaceFolder}\\inventoryUpdate.js"
+            "program": "${workspaceFolder}\\EulerProject\\largestPrimeFactor.js"
         }
     ]
 }
